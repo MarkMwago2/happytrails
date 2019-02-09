@@ -1,0 +1,32 @@
+nav {
+  background-color: silver;
+  font-family: cursive;
+  overflow: hidden;
+}
+a
+{
+text-decoration: none;
+color: black;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 15px;
+padding-bottom: 20px;
+}
+.About {
+  float: left;
+}
+.image {
+  float: right;
+  height: 1000px;
+  width: 700px
+}
+.content{
+color: blue;
+background-color: silver;
+}
+
+}
+body {
+  background-color: silver;
+
+}
